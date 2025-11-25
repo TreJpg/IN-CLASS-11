@@ -3,3 +3,60 @@
   padding: 0;
   box-sizing: border-box;
 }
+
+.uncial-antiqua-regular {
+  font-family: "Uncial Antiqua", system-ui;
+  font-weight: 400;
+  font-style: normal;
+}
+
+h1 {
+  font-size: 50px ;
+  color:#373d20;
+  font-family: 'Uncial Antiqua', serif;
+  text-align: center;
+}
+
+.bebas-neue-regular {
+  font-family: "Bebas Neue", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+}
+p {
+  font-size: 23px;
+  color: #4a341c;
+  font-family: 'Bebas Neue', sans-serif;
+  text-align: center;
+  margin-bottom: 20px;
+  line-height:1.4; 
+}
+
+body {
+  background-color: #c7c8a6;
+}
+
+header {
+  margin-top: 80px;
+  text-align: center;
+  padding: 20px;
+}
+
+h2 {
+  font-family: 'Uncial Antiqua', serif;
+  font-size: 30px;
+  color: #555f28;
+  text-align: center;
+  margin-bottom: 20px;
+}
+
+.container {
+  max-width: 800px;
+  margin: 0 auto;
+  padding: 10px;
+}
+
+main {
+  max-width: 800px;
+  margin: 0 auto;
+  padding: 20px;
+}
